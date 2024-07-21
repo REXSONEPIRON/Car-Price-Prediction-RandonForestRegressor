@@ -1,24 +1,36 @@
-About:
+Car Price Prediction:
 
-Hi 👋, I'm Rexson Epiron
+Hello Everyone,
 
-I am a dedicated Data Science Aspirant with a knack for uncovering patterns and trends that drive smarter decisions.
+Here is My Regression Project based on Predicting Price of Car using RandomForestRegressor.
 
-🎯 Tools and Technologies
+Dataset
+I used  Car Selling Dataset Car Price Prediction
+Hello Everyone,
 
-• Programming : I'm skilled in using Python, a powerful language for data science and data analysis.
+Here is My Regression Project based on Predicting Price of Car using Linear Regression.
 
-• Libraries : I'm familiar with essential libraries like NumPy (for numerical operations), Pandas (for data manipulation), and Matplotlib/Seaborn (for visualizing data).
+Dataset
+I Used Car Selling Dataset which is one of the Dataset uploaded on Kaggle.
 
-• Machine Learning : I'm familiar in various machine learning techniques like Regression (predicting values), Classification (sorting data into categories), Clustering (grouping similar data), Dimensionality Reduction (simplifying complex data), and Model Selection (choosing the right predictive model).
+Link to the Dataset : Car Price Dataset
 
-• Database : I can work with MySQL, a popular database system to handle and retrieve data effectively.
+Problem Statement
+To develop a Machine Learning Model that can accurately predict the prices of used cars based on various features and attributes.
 
-• BI Tool : I'm proficient in using Microsoft Power BI, a tool that helps in turning data into actionable insights through interactive visualizations.
+The predicted prices will assist both buyers and sellers in making informed decisions, ensuring fair transactions in the used car market.
 
-• Version Control : I'm familiar with Git, which helps in keeping track of changes in code and collaborating effectively with a team.
+Streamlit Web App :
 
-• Web Application : I have experience working with Streamlit, an open-source Python library that makes it easy to create custom web apps for machine learning and data science.
+For my Car Price Prediction Project, I have created a Streamlit Web App for predicting the prices of cars in more interactive and user friendly way.
 
-• Web Development : I also have some knowledge in web development, specifically HTML and CSS.
+This Web App allows you to predict the price of a car by just selecting some of its features and fill in some details.
 
+
+Link to the Web App : https://car-price-prediction-randonforestregreappr-aoeq98hf5rrnyermv85.streamlit.app/
+
+Conclusion:
+
+Developed a highly accurateRandomForestRegressor Model using various features and attributes to predict used car prices, achieving an average prediction accuracy of 96%.
+
+Further Model showcased its robustness by undergoing rigorous DecisioTreeRegessor of 93%.
