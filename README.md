@@ -1,3 +1,5 @@
+About:
+
 Hi 👋, I'm Rexson Epiron
 
 I am a dedicated Data Science Aspirant with a knack for uncovering patterns and trends that drive smarter decisions.
